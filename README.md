@@ -16,8 +16,5 @@ This tool is useful for:
 ## Requirements
 - Python 3.x
 
-## Installation
 
-Clone this repository:
-```bash
-git clone https://github.com/hazik-khalid/Port-Scanner
+
